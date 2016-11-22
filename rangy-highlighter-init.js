@@ -1,19 +1,19 @@
 (function () {
 
-var _jquery = "//pulipulichen.github.io/rangy-highlighter-cookie/lib/jquery.min.js";
+var _jquery = "//github-rangy-highlighter-cookie.pulipuli.info/lib/jquery.min.js";
 
 var _lib_scripts = [
-    "//pulipulichen.github.io/rangy-highlighter-cookie/lib/jquery.cookie.js",
-    "//pulipulichen.github.io/rangy-highlighter-cookie/lib/rangy-core.js",
-    "//pulipulichen.github.io/rangy-highlighter-cookie/lib/rangy-classapplier.js",
-    "//pulipulichen.github.io/rangy-highlighter-cookie/lib/rangy-highlighter.js"
+    "//github-rangy-highlighter-cookie.pulipuli.info/lib/jquery.cookie.js",
+    "//github-rangy-highlighter-cookie.pulipuli.info/lib/rangy-core.js",
+    "//github-rangy-highlighter-cookie.pulipuli.info/lib/rangy-classapplier.js",
+    "//github-rangy-highlighter-cookie.pulipuli.info/lib/rangy-highlighter.js"
 ];
 
 var _lib_styles = [
-    "//pulipulichen.github.io/rangy-highlighter-cookie/view/rangy-highlighter.css"
+    "//github-rangy-highlighter-cookie.pulipuli.info/view/rangy-highlighter.css"
 ];
 
-var _lib_annotate_panel = "//pulipulichen.github.io/rangy-highlighter-cookie/view/annotate-panel.template";
+var _lib_annotate_panel = "//github-rangy-highlighter-cookie.pulipuli.info/view/annotate-panel.html";
 
 var _annotate_area = "body";
 
