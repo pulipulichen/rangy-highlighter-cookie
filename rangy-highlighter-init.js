@@ -13,7 +13,7 @@ var _lib_styles = [
     "//pulipulichen.github.io/rangy-highlighter-cookie/view/rangy-highlighter.css"
 ];
 
-var _lib_annotate_panel = "//pulipulichen.github.io/rangy-highlighter-cookie/view/annotate-panel.html";
+var _lib_annotate_panel = "//pulipulichen.github.io/rangy-highlighter-cookie/view/annotate-panel.template";
 
 var _annotate_area = "body";
 
