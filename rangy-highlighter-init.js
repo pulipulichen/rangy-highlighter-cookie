@@ -209,19 +209,19 @@ $$(function () {
         var _to_string = $$.trim(sel.toString());
         if (_to_string !== "" && _last_string !== _to_string) {
             _last_string = _to_string;
-            var _top = e.clientY - ($$(".annotate-panel").height() + 15);
+            var _top = e.clientY - (_annotate_panel.height() + 15);
             if (_top < 0) {
                 _top = 0;
             }
-            var _left = e.clientX - ($$(".annotate-panel").width() / 2);
+            var _left = e.clientX - (_annotate_panel.width() / 2);
             if (_left < 0) {
                 _left = 0;
             }
-            $$(".annotate-panel").css({
+            _annotate_panel.css({
                 "top": _top,
                 "left": _left
             });
-            $$(".annotate-panel").addClass("show");
+            _annotate_panel.addClass("show");
 
             clearTimeout(_annotate_panel_timer);
 
