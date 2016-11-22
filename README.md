@@ -10,3 +10,5 @@ http://codepen.io/pulipuli/pen/WojwpB
 
 
 //github-rangy-highlighter-cookie.pulipuli.info/
+
+http://andrewsturges.com/blog/jekyll/tutorial/2014/11/06/github-and-godaddy.html
